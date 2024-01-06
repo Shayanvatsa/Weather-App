@@ -46,11 +46,11 @@ Welcome to the Weather App! This application allows users to check the current w
 1. Get an API key from OpenWeatherMap by signing up for a free account.
 
 2. Create a file named .env.local in the project root and add your API key:
-
+   ```
     REACT_APP_WEATHER_API=your_api_key_here
    
 3. Start the development server:
-
+      ```
       npm run dev
    
 4. Open your browser and navigate to http://localhost:5173.
