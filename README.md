@@ -1,5 +1,7 @@
 # Weather App
 
+![Weather App](https://raw.githubusercontent.com/Shayanvatsa/Weather-App/main/IMG_20240107_001258.jpg)
+
 A simple weather app built with React and axios to fetch real-time weather data from the OpenWeatherMap API.
 
 ## Table of Contents
